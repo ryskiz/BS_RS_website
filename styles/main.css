@@ -1,0 +1,14 @@
+.navbar-nav>li>a:hover, .navbar-nav>li>a:focus {
+	background-color: rgba(112, 193, 179, 1);
+	    -webkit-transition-duration: 400ms;
+            transition-duration: 400ms;
+            color: rgba(23, 54, 48, 1);
+
+}
+.navbar-fixed-top {
+	background: rgba(36, 123, 160, 0.6);
+}
+a {
+	color: rgba(200, 199, 204, 1);
+	font-family: 'futura', sans-serif;
+}
