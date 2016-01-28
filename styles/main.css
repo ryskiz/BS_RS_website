@@ -12,3 +12,13 @@ a {
 	color: rgba(200, 199, 204, 1);
 	font-family: 'futura', sans-serif;
 }
+.hidden {
+  visibility: hidden;
+}
+.example-controller {
+			border: 1px solid #999;
+			margin-top:70px;
+			padding-bottom: 20px;
+			padding: 12px;
+			border-radius: 5px;
+}
